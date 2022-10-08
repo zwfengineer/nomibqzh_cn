@@ -1,0 +1,19 @@
+{
+  "name": "nomibqzh_cn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwfengineer/nomibqzh_cn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwfengineer/nomibqzh_cn/issues"
+  },
+  "homepage": "https://github.com/zwfengineer/nomibqzh_cn#readme"
+}
