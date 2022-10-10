@@ -1,10 +1,10 @@
 {
   "name": "nomibqzh_cn",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" gulp &&  node ./dist/main.js && powershell ./auto.ps1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/zwfengineer/nomibqzh_cn/issues"
   },
-  "homepage": "https://github.com/zwfengineer/nomibqzh_cn#readme"
+  "homepage": "https://github.com/zwfengineer/nomibqzh_cn#readme",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.3",
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^4.8.4"
+  }
 }

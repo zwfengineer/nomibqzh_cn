@@ -1,0 +1,1 @@
+cp .\zh_cn.lang '..\.minecraft\versions\Nomifactory - 1.2.2.1 - The Community Update\resources\questbook\lang\zh_cn.lang' -r
